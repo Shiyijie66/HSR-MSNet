@@ -4,7 +4,7 @@ This code is based on [Simple Baselines for Human Pose Estimation and Tracking](
 ## Main Results
 ### Results on COCO val2017 with detector having human AP of 56.4 on COCO val2017 dataset
 <div align="center">
-    <img src="doc/results.jpg", width="800">
+    <img src="doc/results.jpg", width="600">
 </div>
 
 ### Note:
@@ -12,7 +12,7 @@ This code is based on [Simple Baselines for Human Pose Estimation and Tracking](
 - Person detector has person AP of 56.4 on COCO val2017 dataset 
 
 <div align="center">
-    <img src="doc/img-15.jpg", width="600">
+    <img src="doc/img-15.jpg", width="800">
 </div>
 
 ## Environment
