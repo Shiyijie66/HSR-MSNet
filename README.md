@@ -15,8 +15,8 @@ This code is based on [Simple Baselines for Human Pose Estimation and Tracking](
 <div align="center">
     <img src="doc/img-15.jpg", width="800">
 </div>
+
 ### Note:
-- Flip test is used
 - Person detector has person AP of 60.9 on COCO val2017 dataset 
 
 ## Environment
