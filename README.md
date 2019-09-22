@@ -11,9 +11,13 @@ This code is based on [Simple Baselines for Human Pose Estimation and Tracking](
 - Flip test is used
 - Person detector has person AP of 56.4 on COCO val2017 dataset 
 
+### Qualitative comparisons on COCO test2017 dataset.
 <div align="center">
     <img src="doc/img-15.jpg", width="800">
 </div>
+### Note:
+- Flip test is used
+- Person detector has person AP of 60.9 on COCO val2017 dataset 
 
 ## Environment
 The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs ared needed. The code is developed and tested using 1 NVIDIA P100 GPUS cards. Other platform or GPU card are not fully tested.
