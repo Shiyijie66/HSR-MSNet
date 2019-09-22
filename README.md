@@ -12,7 +12,7 @@ This code is based on [Simple Baselines for Human Pose Estimation and Tracking](
 - Person detector has person AP of 56.4 on COCO val2017 dataset 
 
 <div align="center">
-    <img src="doc/img-15.jpg", width="800">
+    <img src="doc/img-15.jpg", width="600">
 </div>
 
 ## Environment
@@ -99,7 +99,7 @@ The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs ared needed.
    
 ### Data preparation
 
-**For COCO data**, please download from [COCO download](http://cocodataset.org/#download), 2017 Train/Val is needed for COCO keypoints training and validation. We also provide person detection result of COCO val2017 for reproduce our multi-person pose estimation results. Please download from [OneDrive](https://1drv.ms/f/s!AhIXJn_J-blWzzDXoz5BeFl8sWM-) or [GoogleDrive](https://drive.google.com/drive/folders/1fRUDNUDxe9fjqcRZ2bnF_TKMlO0nB_dk?usp=sharing).
+**For COCO data**, please download from [COCO download](http://cocodataset.org/#download), 2017 Train/Val is needed for COCO keypoints training and validation. Person detection results of COCO val2017 for reproduce our multi-person pose estimation results are provided. Please download from [OneDrive](https://1drv.ms/f/s!AhIXJn_J-blWzzDXoz5BeFl8sWM-) or [GoogleDrive](https://drive.google.com/drive/folders/1fRUDNUDxe9fjqcRZ2bnF_TKMlO0nB_dk?usp=sharing).
 Download and extract them under {POSE_ROOT}/data, and make them look like this:
 ```
 ${POSE_ROOT}
